@@ -11,11 +11,11 @@ Library build in DRF (Django Rest Framework)
 
 #### <strong>Instalar dependências</strong>:
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 #### <strong>Instalar dependências, inclusive de desenvolvimento</strong>:
 
-```pip install requirements-dev.txt```
+```pip install -r requirements-dev.txt```
 
 #### Copiar variáveis de ambiente:
 ```cp contrib/env-sample .env```
